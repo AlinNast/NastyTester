@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello World 👋 I'm Alin Nastasa
+
+### I'm a Junior Full Stack Developer from Europe
+
+##### Languages I know so far:
+ - Python ( my favorite )
+ - C#
+ - JavaScript
+ - Html
+ - Css
 
 <!--
 **NastyTester/NastyTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
